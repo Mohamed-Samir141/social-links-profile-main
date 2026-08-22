@@ -9,14 +9,15 @@ body{
     background-color: hsl(0, 0%, 12%);
     text-align:center;
     align-content:center;
-    margin-inline:520px;
+    width:min(87%, 384px);
+    margin-inline:auto;
     border-radius:12px;
 }
 .profile-image{
     border-radius:50%;
     inline-size:88px;
     block-size:88px;
-    margin-top:20px;
+    margin-block-start:20px;
 }
 
 .profile-name{
@@ -47,6 +48,15 @@ h3{
     background-color:hsl(0, 0%, 20%)
 }
 
+h3 a{
+    display:block;
+    width:100%;
+    height:100%;
+    color:inherit;
+    text-decoration:none;
+
+}
+
 h3:hover{
     background-color:hsl(75, 94%, 57%);
     color:hsl(0, 0%, 20%);
@@ -55,4 +65,8 @@ h3:hover{
 .GitHub{
     margin-block-start:-11px;
 
+}
+
+.Instagram{
+    margin-block-end:40px;
 }

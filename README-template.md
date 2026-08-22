@@ -36,7 +36,7 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://mohamed-samir141.github.io/social-links-profile-main/)
 
 ## My process
-thanks to perfect pixel, i have had no issues with the design at all and i think it will help me a lot in my career. but after i was done with all of the desgin, and truned off dev tools omn chrome since it hellped me being productive, i realised that the spacing was all wrong, because i have used dev tools to to resize my screen to fit the 1440px screen for desktop, the design becomes off once i turned it off
+thanks to perfect pixel, i have had no issues with the design at all and i think it will help me a lot in my career. 
 
 
 ### Built with
@@ -46,7 +46,7 @@ thanks to perfect pixel, i have had no issues with the design at all and i think
 
 
 ### What I learned
-i learned that i should plan more and be more efficient at planning so i wont get messed up later
+i learned that i should plan more and be more efficient at planning so i wont get messed up later. i also learned that links can be block level, which is very neat
 
 ### Continued development
 
@@ -59,7 +59,7 @@ perfect pixel: helped me a lot to get all of the conetents just right
 
 ### AI Collaboration
 
-i tried to use copilot for specfict wierd quirks that happends when i space contents. i ended up fixing it myself without the help of copilot
+ai was almost useless for me in nearly 90% of my time coding, but it really helped me with a sizing issue that i struggled with and how to make links as good as they can be. i used claude for that
 
 
 ## Acknowledgments
