@@ -14,13 +14,12 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+the design was easy, it took me longer than the others, but i didnt feel stuck and all of my coding were effeicent.
 ### The challenge
 
 Users should be able to:
@@ -34,10 +33,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mohamed-samir141.github.io/social-links-profile-main/)
 
 ## My process
+thanks to perfect pixel, i have had no issues with the design at all and i think it will help me a lot in my career. but after i was done with all of the desgin, and truned off dev tools omn chrome since it hellped me being productive, i realised that the spacing was all wrong, because i have used dev tools to to resize my screen to fit the 1440px screen for desktop, the design becomes off once i turned it off
+
 
 ### Built with
 
