@@ -1,6 +1,6 @@
 
 body{
-    background-color:hsl(0, 0%, 8%);
+    background-color:hsl(0, 0%, 0%);
     color:hsl(0, 0%, 100%);
     font-family: 'Inter', sans-serif;
     font-size:14px;
@@ -10,6 +10,7 @@ body{
     text-align:center;
     align-content:center;
     margin-inline:520px;
+    border-radius:12px;
 }
 .profile-image{
     border-radius:50%;
@@ -40,5 +41,23 @@ body{
 h3{
   font-size:0.92rem;
   line-height:44px;
+    border:1px hsl(0, 0%, 20%) solid;
+    margin-inline:40px;
+    border-radius:8px;
+    background-color:hsl(0, 0%, 20%)
+}
 
+h3:hover{
+    background-color:hsl(75, 94%, 57%);
+    color:hsl(0, 0%, 20%);
+}
+
+.GitHub{
+    margin-block-start:-11px;
+
+}
+
+
+.Twitter{
+    padding-block-end:px;
 }
