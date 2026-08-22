@@ -30,6 +30,7 @@ body{
     font-size:0.97rem;
     color:hsl(75, 94%, 57%);
 }
+
 .profile-bio{
     padding-block-start:13px;
     padding-block-end:23px;
@@ -56,7 +57,7 @@ h3 a{
 
 }
 
-h3:hover{
+h3:hover, h3:focus-visible{
     background-color:hsl(75, 94%, 57%);
     color:hsl(0, 0%, 20%);
 }
