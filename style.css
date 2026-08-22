@@ -1,6 +1,9 @@
 
 body{
-    color:#fff;
+    background-color:hsl(0, 0%, 8%);
+    color:hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    font-size:14px;
 }
 .container{
     background-color: hsl(0, 0%, 12%);
@@ -13,4 +16,29 @@ body{
     inline-size:88px;
     block-size:88px;
     margin-top:20px;
+}
+
+.profile-name{
+    font-size:1.47rem;
+    font-weight:700;
+    margin-block-start:28px;
+    margin-block-end:-9px;
+}
+
+.profile-location{
+    font-size:0.97rem;
+    color:hsl(75, 94%, 57%);
+}
+.profile-bio{
+    padding-block-start:13px;
+    padding-block-end:23px;
+    font-weight:400;
+    font-size:0.93rem;
+
+}
+
+h3{
+  font-size:0.92rem;
+  line-height:44px;
+
 }
