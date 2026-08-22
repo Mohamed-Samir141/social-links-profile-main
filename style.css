@@ -1,0 +1,16 @@
+
+body{
+    color:#fff;
+}
+.container{
+    background-color: hsl(0, 0%, 12%);
+    text-align:center;
+    align-content:center;
+    margin-inline:520px;
+}
+.profile-image{
+    border-radius:50%;
+    inline-size:88px;
+    block-size:88px;
+    margin-top:20px;
+}
